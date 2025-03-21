@@ -1,7 +1,6 @@
 
 ### JavaScript File (`operators-and-conditional-statements.js`):
 
-```javascript
 // 1. Arithmetic Operators
 
 let a = 5, b = 3;
